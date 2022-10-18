@@ -1,0 +1,12 @@
+[submodule "app"]
+	path = app
+	url = ./app
+[submodule "basic"]
+	path = basic
+	url = ./basic
+[submodule "lessons"]
+	path = lessons
+	url = ./lessons
+[submodule "server"]
+	path = server
+	url = ./server
